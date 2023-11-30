@@ -1,5 +1,5 @@
 
-## REBOOT01 Instructions [print out and provide to students]
+## CTF Instructions 
 Flags will look like this: FLAGX_12345
 
 These commands will get you back where you started if you get lost in directories:
