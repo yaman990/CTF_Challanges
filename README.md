@@ -16,6 +16,11 @@ Check your current dir:
 
 Note: If you see \` marks, it means the command to run is `inside` those marks. Do not type the \` characters when you run the command.
 
+
+## To submit your answers use the following website 
+
+https://yaman990.github.io/
+
 ## Challenges
 
 #### 01 linux i
